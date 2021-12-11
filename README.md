@@ -2,7 +2,7 @@
 - 👀 The front-end is my main motivation for web development
 - 🌱 I’m currently learning React JS, MapBox, OpenLayers ... to set up dynamic mapping
 - 💞️ I’m looking to collaborate on MERN Stack 
-- 📫 How to reach me https://sfarid811.github.io/ 
+- 📫 How to reach me https://portfolio-sfarid811.netlify.app/
 
 <!---
 sfarid811/sfarid811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
